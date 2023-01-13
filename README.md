@@ -90,7 +90,7 @@ We describe each protocol in great detail, including all necessary setup, sanity
 
 The protocol descriptions are interactive, letting you modify variable names. This allows you to match the variable names in ZKdocs' specification to the variable names in your code, making it easier to find bugs and missing assertions.
 
-![Basic interactivity usage](/static/figs/demo.gif)
+![demo](https://user-images.githubusercontent.com/76808956/212434601-7c1100c6-7de6-42c7-83cc-28a6ab6841a7.gif)
 
 Interactivity features:
  - Click on a variable to highlight it across the document.
